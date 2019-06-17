@@ -7,4 +7,5 @@ return [
 'charset' => 'utf8',
 'user' => 'mysql',
 'pass' => 'mysql'
+
 ];
